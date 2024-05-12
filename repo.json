@@ -7,16 +7,16 @@
       "Tags": [ "utility" ],
       "InternalName": "SkipCutscene",
       "AssemblyVersion": "1.2.2.3",
-      "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
+      "RepoUrl": "https://github.com/ReeeMan/Ch00bFF14",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 9,
       "IsHide": "False",
       "IsTestingExclusive": "False",
       "DownloadCount": 1,
       "LastUpdate": 1640036270,
-      "DownloadLinkTesting": "https://github.com/a08381/Dalamud.SkipCutscene/raw/dist/latest.zip",
-      "DownloadLinkInstall": "https://github.com/a08381/Dalamud.SkipCutscene/raw/dist/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/a08381/Dalamud.SkipCutscene/raw/dist/latest.zip"
+      "DownloadLinkTesting": "https://github.com/ReeeMan/Ch00bFF14/raw/dist/latest.zip",
+      "DownloadLinkInstall": "https://github.com/ReeeMan/Ch00bFF14/raw/dist/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/ReeeMan/Ch00bFF14/raw/dist/latest.zip"
     }
   ]
   
